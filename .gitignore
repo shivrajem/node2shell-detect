@@ -1,0 +1,5 @@
+node2shell_*/
+*.csv
+hosts.txt
+*_hosts.txt
+.DS_Store
